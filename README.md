@@ -1,5 +1,4 @@
 # Telcom-Churn-Analysis-using-SVM-Algorithm
-##### by Gokul Ghate
 
 - Any business wants to maximize the number of customers. To achieve this goal, it is important not only to try to attract new ones, but also to retain existing ones. Retaining a client will cost the company less than attracting a new one. In addition, a new client may be weakly interested in business services and it will be difficult to work with him, while old clients already have the necessary data on interaction with the service.
 
